@@ -1,1 +1,1 @@
-# Welcome to the Dynamic Preciion Medicine Repository
+# Welcome to the Dynamic Precision Medicine Repository
