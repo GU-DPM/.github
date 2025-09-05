@@ -28,7 +28,7 @@ Current precision medicine (CPM) matches patients to therapies using traditional
 
 [Generalized Evolutionary Classifier for Evolutionary Guided Precision Medicine](https://ascopubs.org/doi/10.1200/PO.23.00714)
 
-[Github_repository](https://github.com/GU-DPM/EvolutionaryClassifier)
+[Github repository](https://github.com/GU-DPM/EvolutionaryClassifier)
 
 ## DPM-J
 Despite advances in targeted cancer therapy, the promise of precision medicine has been limited by resistance to these treatments. In this study, we propose a mathematical modelling framework incorporating cellular heterogeneity, genetic evolutionary dynamics, and non-genetic plasticity, accounting for both irreversible and reversible drug resistance. Previously we proposed Dynamic Precision Medicine (DPM), a personalized treatment strategy that designed individualized treatment sequences by simulations of irreversible genetic evolutionary dynamics in a heterogeneous tumor. Here we apply DPM to the joint model of reversible and irreversible drug resistance mechanisms, analyze the simulation results and compare the efficacy of various treatment strategies. The results indicate that this enhanced version of DPM significantly outperforms current personalized medicine treatment approaches. Our results provide insights into cancer treatment strategies for heterogeneous tumors with genetic evolutionary dynamics and non-genetic cellular plasticity, potentially leading to improvements in survival time for cancer patients.
