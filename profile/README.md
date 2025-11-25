@@ -2,7 +2,7 @@
 This Github Orgainzation Represents the hub for information on various research directions. 
 
 ## Dynamic Precision Medicine
-Key features of DPM: Dynamic precision medicine (DPM), co-invented
+Dynamic precision medicine (DPM), co-invented
 by Dr. Robert Beckman and Dr. Chen-Hsiang Yeang, is a strategy that
 prioritizes the elimination of these multi agent resistant subclones by
 changing therapy very frequently and pro-actively planning for potential
@@ -37,9 +37,6 @@ Despite advances in targeted cancer therapy, the promise of precision medicine h
 
 [Github repository](https://github.com/GU-DPM/DPM-J)
 
-
-## Future Directions and Other (incomplete) work
-This section describes projects currenly underway.
 
 ### Clinical Trail App
 **Background:**
@@ -84,7 +81,10 @@ application serves as a powerful decision-support tool for Novartis teams to sim
 and optimize DPM-based trial designs, maximizing asset value and competitive
 differentiation.
 
-Coming soon: code repository link
+[Github Repository](https://github.com/GU-DPM/DPM_EC_ClinicalTrialSimulation)
+
+## Future Directions and Other (incomplete) work
+This section describes projects currenly underway.
 
 ### Goldilocks Hypothesis
 The Goldilocks Hypothesis is a framework for predicting treatment
