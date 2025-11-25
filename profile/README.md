@@ -38,7 +38,7 @@ Despite advances in targeted cancer therapy, the promise of precision medicine h
 [Github repository](https://github.com/GU-DPM/DPM-J)
 
 
-### Clinical Trail App
+## Clinical Trail App
 **Background:**
 Dynamic Precision Medicine (DPM) is a therapeutic strategy that reframes cancer
 treatment to maximize long-term survival by proactively managing tumor evolution
